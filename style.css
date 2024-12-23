@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.box{
+    width: 100vw;
+    height: 100vh;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.box:nth-child(1){
+    background-image: url(media/ar-RTIndRVh7UI-unsplash.jpg);
+}
+.box:nth-child(2){
+    background-image: url(media/isaac-maffeis-2UCObVpE_o0-unsplash.jpg);
+}
+.box:nth-child(3){
+    background-image: url(media/isaac-maffeis-DpZGBGuRTNo-unsplash.jpg);
+}
+.box:nth-child(4){
+    background-image: url(media/joris-beugels-DAg1u-qljrI-unsplash.jpg);
+}
+.box:nth-child(5){
+    background-image: url(media/josh-mccausland-1k6aVLuSZOM-unsplash.jpg);
+}
+.box:nth-child(6){
+    background-image: url(media/nick-west-4M-5WBrG5-c-unsplash.jpg);
+}
+.box:nth-child(7){
+    background-image: url(media/tetiana-grypachevska-80x3QULJDN4-unsplash.jpg);
+}
+.box:nth-child(8){
+    background-image: url(media/vlad-marisescu-kdoMEwGxEB8-unsplash.jpg);
+}
